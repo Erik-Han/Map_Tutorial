@@ -15,6 +15,7 @@
 		F48D545324CC81D600366204 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F48D545124CC81D600366204 /* LaunchScreen.storyboard */; };
 		F48D545E24CC81D600366204 /* MyFirstMapAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F48D545D24CC81D600366204 /* MyFirstMapAppTests.swift */; };
 		F48D546924CC81D600366204 /* MyFirstMapAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F48D546824CC81D600366204 /* MyFirstMapAppUITests.swift */; };
+		F48D547724CCC73F00366204 /* artwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = F48D547624CCC73F00366204 /* artwork.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F48D546424CC81D600366204 /* MyFirstMapAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstMapAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F48D546824CC81D600366204 /* MyFirstMapAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstMapAppUITests.swift; sourceTree = "<group>"; };
 		F48D546A24CC81D600366204 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F48D547624CCC73F00366204 /* artwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = artwork.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F48D544F24CC81D600366204 /* Assets.xcassets */,
 				F48D545124CC81D600366204 /* LaunchScreen.storyboard */,
 				F48D545424CC81D600366204 /* Info.plist */,
+				F48D547624CCC73F00366204 /* artwork.swift */,
 			);
 			path = MyFirstMapApp;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				F48D544B24CC81D500366204 /* ViewController.swift in Sources */,
 				F48D544724CC81D500366204 /* AppDelegate.swift in Sources */,
+				F48D547724CCC73F00366204 /* artwork.swift in Sources */,
 				F48D544924CC81D500366204 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
